@@ -36,7 +36,7 @@ Implementação de um sistema de mensageria distribuída com suporte a:
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/message-bus-ifsp.git
+git clone https://github.com/seu-usuario/message-bus-ifsp.git](https://github.com/giolreis/sistema-mensageria-distribuida.git)
 cd message-bus-ifsp
 
 # Compilação
