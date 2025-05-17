@@ -1,0 +1,6 @@
+[SEND] Client1 @ 1: Olá Multicast (CanalA)
+[SEND] Client3 @ 1: Olá Broadcast (N/A)
+[SEND] Client1 @ 1: Olá Multicast (CanalA)
+[SEND] Client3 @ 1: Olá Broadcast (N/A)
+[SEND] Client1 @ 1: Olá Multicast (CanalA)
+[SEND] Client3 @ 1: Olá Broadcast (N/A)
